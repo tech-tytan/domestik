@@ -85,6 +85,12 @@ domestik/
 
 ---
 
+## Preloaded States & Areas(Local Government Areas) in Nigeria
+
+36 States plus FCT and 774 Areas(Local Government Areas) preloaded.
+
+---
+
 ## Production Deployment (cPanel Same-Domain Architecture)
 
 To keep both the React frontend and Laravel Sanctum API under the exact same domain (avoiding cross-domain cookie issues), organize `public_html` as follows:
